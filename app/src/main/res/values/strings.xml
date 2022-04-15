@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppricotTestTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_title_character_item">Rick</string>
+    <string name="test_species_character_item">Human</string>
+    <string name="species">Species :</string>
+    <string name="gender">Gender:</string>
+    <string name="test_male">male</string>
+    <string name="characters">Characters</string>
+    <string name="error_message">ERROR</string>
+    <string name="episodes">Episodes: </string>
+    <string name="status">Status:</string>
+    <string name="species_">Species:</string>
+    <string name="latest_location">Latest location:</string>
+</resources>
